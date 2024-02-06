@@ -50,20 +50,20 @@ After the EDA process, the dashboard attached below was created.
 Major insights from the analysis are:
 - The churn rate for the company was `26.86%`
 - Competitor was the major category that led to about `44.82%` of the customers churning, while Attitude and Dissatisfaction were the next top categories for churning.
-- Competitor made better offer, competitor had better devices, and Attitude of support person were the top three reasons for customers churning.
-- Customers on month-to-month contracts have higher churn rate of `46.29%` than those on yearly contracts with a churn rate of `6.62%`.
+- Competitors made better offers, competitors had better devices, and the Attitude of the support person were the top three reasons for customers churning.
+- Customers on month-to-month contracts have a higher churn rate of `46.29%` than those on yearly contracts with a churn rate of `6.62%`.
 - Customers in Califonia had the highest churn rate of over `63%`
-- For payment methods, customers using the direct debit method were more and churned more often with a churn rate of `53.9%` however, judging using the churn rate alone seemed like paper check had a higher churn rate. The reverse is the case because most times, percentage with the totals are not necessarily representative.
-- Older customers (>= 70years) have higher churn rate. It was observed that `289/357` old customers on monthly contract were on direct debit payment method, and over `82%` of them churned.
+- For payment methods, customers using the direct debit method were more and churned more often with a churn rate of `53.9%` however, judging using the churn rate alone, it seemed like paper check had a higher churn rate. The reverse is the case because most times, percentage with the totals are not necessarily representative.
+- Older customers (>= 70 years) have higher churn rates. It was observed that `289/357` old customers on monthly contract were on direct debit payment method, and over `82%` of them churned.
 - Churn rate decreases with increasing account length.
 - Churn rate increases with increasing customer age.
 - Customers on unlimited data plan have higher churn rate with respect to their data usage - users with low data usage churned more often when compared to the others.
-- Customers in a group had lower churn rate unlike those not subscribed in groups.
+- Customers in a group had a lower churn rate unlike those not subscribed in groups.
 - The impact of gender was not so significant and we can conclude that gender did not play a major role in the reason why people churn.
 - Lastly, customers with more customers service calls have a very high tendency of churning.
 
 ## Recommendations
-- Do a market research and investigate on what their competitors are doing better to improve their services because based on the customers behavior, Databel are not competitive enough.
+- Do market research and investigate what their competitors are doing better to improve their services because based on the customer's behavior, Databel is not competitive enough.
 
 - Roll out promotions with juicy yearly offers in order to have more customers that are on yearly contracts who have lower churn rate.
 
