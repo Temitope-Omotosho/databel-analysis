@@ -1,7 +1,7 @@
+![Databel Logo](<churn analysis/databel logo.PNG>) 
 # Databel Churn Analysis Project
 
 ## Introduction
-
 Welcome to the realm of Databel, a dynamic telecommunications enterprise renowned for its comprehensive array of call and data services. Our mission? To unlock the enigmatic facets concealed within our churn rate data and gain insights into the pivotal factors influencing customer retention. Examining churn extends beyond merely quantifying its rate; it entails deciphering the reasons behind customer departures and devising effective strategies to mitigate churn. Embark with me on this data-driven expedition as we navigate through the core of our operations, striving to enhance customer allegiance and diminish churn. The analytical tools employed for this exploration are Microsoft PowerBI and Python.
 
 ## Problem Statement
@@ -43,7 +43,7 @@ The dataset comprises 29 columns and 6,687 rows. The following are the columns i
 ## Exploratory Data Analysis with Power BI
 After the EDA process, the dashboard attached below was created.
 
-![Databel Churn Analysis IMG](https://github.com/Temitope-Omotosho/databel-analysis/assets/63404084/faf52780-74f0-4095-8c83-bd53be17857b)
+![Databel Churn Analysis Dashboard](<churn analysis/Databel Churn Analysis IMG.PNG>)
 
 ## Insights
 
